@@ -47,10 +47,17 @@ ADJUSTABLE OUTPUT:
 By J4 shunt it is possible to set "FPWM" mode according to MAX8815 data sheet
 
 
-## Open source Development applications
+## Open Source Development Applications
 
 The project was created using the following Open source applications:
-- **KiCad** : to design cell module and Interface board
+- **KiCad** 
+
+
+## Open Source Hardware Certification
+Max8815-board has been certified as open source hardware by the Open Source Hardware Association, with the UID: IT000008.
+
+Certificate link: (https://certification.oshwa.org/it000008.html)
+
 
 ## License
 
